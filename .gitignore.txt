@@ -1,0 +1,17 @@
+# Backend
+/target/
+*.log
+
+# Frontend
+/node_modules/
+/dist/
+
+# IDE
+/.idea/
+/.vscode/
+/.settings/
+*.classpath
+*.project
+
+# OS
+.DS_Store

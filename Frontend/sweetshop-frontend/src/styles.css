@@ -1,0 +1,12 @@
+body { font-family: Arial, Helvetica, sans-serif; margin:0; padding:0; background:#f6f8fa; }
+.app { max-width: 900px; margin: 24px auto; padding: 16px; }
+.nav { display:flex; gap:12px; margin-bottom:16px; align-items:center; }
+.nav a { text-decoration:none; color:#111; padding:6px 10px; border-radius:6px; }
+.nav a:hover { background:#e8eef6; }
+.nav button { cursor:pointer; padding:6px 10px; border-radius:6px; }
+.main { background:#fff; padding:16px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.06); }
+.card { border:1px solid #eee; padding:12px; margin-bottom:8px; border-radius:6px; display:flex; justify-content:space-between; align-items:center;}
+.form-row { margin-bottom:8px; }
+input, button { padding:8px; border-radius:6px; border:1px solid #ddd; }
+button { background:#2b8bea; color:white; border:none; }
+.admin-actions { display:flex; gap:8px; }

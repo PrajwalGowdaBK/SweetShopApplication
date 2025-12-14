@@ -22,7 +22,7 @@ export default function Login({ onLogin }) {
   }
 
   return (
-    <div style={{padding:"10px,50px",backgroundColor:"wheat"}}>
+    <div style={{padding:"10px,50px",backgroundColor:"white"}}>
       <h2 style={{textAlign:"center"}}>Login</h2>
       <div >
       <form onSubmit={submit} /* no action attribute */ /*style={{backgroundColor:"green",padding:"10px",width:"600px",margin:"auto",borderRadius:"10px"}}*/>
